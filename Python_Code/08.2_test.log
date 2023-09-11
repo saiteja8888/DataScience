@@ -1,0 +1,11 @@
+WARNING:root:this is my warning log
+ERROR:root:this is my error log
+WARNING:root:this is my warning log
+WARNING:root:this is my warning log
+WARNING:root:this is my warning log
+ERROR:root:Exception happened
+ERROR:root:Exception happeneddivision by zero
+Traceback (most recent call last):
+  File "C:\Users\mswin\AppData\Local\Temp\ipykernel_8888\3064929186.py", line 4, in divbyzero
+    return a/b
+ZeroDivisionError: division by zero
