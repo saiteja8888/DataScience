@@ -1,1 +1,1 @@
-pip install pandas lxml bs4 html5lib requests
+pip install pandas lxml bs4 html5lib requests openpyxl
